@@ -1,0 +1,10 @@
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\bin\Debug\captcha_server.exe.config
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\bin\Debug\captcha_server.exe
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\bin\Debug\captcha_server.pdb
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\obj\Debug\captcha_server.csprojAssemblyReference.cache
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\obj\Debug\captcha_server.ServerForm.resources
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\obj\Debug\captcha_server.Properties.Resources.resources
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\obj\Debug\captcha_server.csproj.GenerateResource.cache
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\obj\Debug\captcha_server.csproj.CoreCompileInputs.cache
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\obj\Debug\captcha_server.exe
+C:\Users\CS2-41\source\repos\captcha_server\captcha_server\captcha_server\obj\Debug\captcha_server.pdb

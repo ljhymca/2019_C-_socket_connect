@@ -1,0 +1,11 @@
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\bin\Debug\captcha_client.exe.config
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\bin\Debug\captcha_client.exe
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\bin\Debug\captcha_client.pdb
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.csprojAssemblyReference.cache
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.Form1.resources
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.Properties.Resources.resources
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.csproj.GenerateResource.cache
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.csproj.CoreCompileInputs.cache
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.exe
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.pdb
+C:\Users\CS2-41\source\repos\captcha_client\captcha_client\obj\Debug\captcha_client.ChatForm.resources
